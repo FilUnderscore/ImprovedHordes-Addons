@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModInfo>
+	<Name value="AddonIH-AirdropHordes" />
+	<Version value="1.0.0" />
+	<DisplayName value="Improved Hordes Airdrop Hordes Add-on"/>
+	<Description value="Airdrops attract Hordes." />
+	<Author value="FilUnderscore" />
+	<Website value="https://github.com/FilUnderscore/ImprovedHordes-Addons" />
+</ModInfo>
